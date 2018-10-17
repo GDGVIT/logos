@@ -1,2 +1,2 @@
-# logos
-Repository containing different logos of dscvit
+# DSCVIT Logos
+Repository containing different logos of DSCVIT.
